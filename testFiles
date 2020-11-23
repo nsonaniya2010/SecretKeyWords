@@ -1,0 +1,432 @@
+This is test data to check coverage of secret hunters
+
+Generated using: https://onlinerandomtools.com/generate-random-data-from-regexp
+
+
+Twitter_access_token = 59114283464682230174466569592760949472511006-Vst0CFZOtSe1GbqhBPqTL1skSvJ2ERdZI3O0Vz7l
+Twitter_access_token = 489626267068336410696761344-ZzOyPjVjHpOQjXkJH514MikzJ6hFjx54Ob9fdh6g
+Twitter_access_token = 844344933017636396938732290839469591074123841957134572090425415486444070081315160871128917227638921-jNhoIC9HOY2ng7DDaXjGYOIymcmFCiVvaPnZIWrj
+
+
+Facebook: AccessToken: EAACEdEose0cBA7TTz5XfWBI88hQRSOXa56SsOd249S5vu7uShjr7h1f5SWsgSHa0EZLHuQ1iVbWJe7YBFEXwYj9J30DaFGOnHieCXhU25nU2
+Facebook: AccessToken: EAACEdEose0cBAIj8x16ZS9XvJ9pCHfYItE0ClrwJaWFMqbwoxLCAC66tfxRGl1uBOiAZVxxZT2
+Facebook: AccessToken: EAACEdEose0cBAK6LuBBj6Dq38ix5GBt5PeIJXU4
+
+
+Youtube: ApiKey: AIza8wK1lzeY0r0_SWQqwfThFgoPo2Po-aUST5L
+Youtube: ApiKey: AIzaQMKrT47rL0pRX7pzA-pUbTgmFMJwbE-X0GB
+Youtube: ApiKey: AIzazNvR1NSk8Mc4loF6u4LAh9QhCJOQN8_waxb
+
+Picatic: ApiKey: sk_live_h3bctehvg5232a8l1as4874vcykrr6ex
+Picatic: ApiKey: sk_live_wccc8wczt1j9ci7emgg5sn3f1e9nvbjp
+Picatic: ApiKey: sk_live_j4ahj3fo3jxu3ta3w7j9i8fi06qvpbmh
+
+
+Stripe: StandardKey: sk_live_cfPjfJkuMn5Kdglayu4g0XsH
+Stripe: RestrictedKey: rk_live_R58nJl6mImRRj39E70mVkjjj
+
+Square: AccessToken: sq0atp-c6P27JodNfP4LmXODcI7c6
+Square: OAuthSecret: sq0csp-lmRAI6SGMQV5MWNiDE8r6hSJNcayLy_XGr47g6fdo4b
+
+Paypal_BT: AccessToken: access_token$production$oi0vg5vn8ylxdgg6$d6e625a433336b1bfa2508b78e3386c7
+Amazon_MWS: AuthToken: amzn.mws.7802d881-4aae-03af-b98c-0e01f630f12f
+
+Twilio: ApiKey: SK79E0E0C86988aD05aEa2d22F69f09C41
+MailGun: ApiKey: key-GyzP5IQpoc0XdqaGWI1JuUdoOdqdaHtl
+MailChimp: ApiKey: ca810102e75ecf1dac89b053af209348-us6
+
+AWS: AccessKeyId: AKIAIZJT5J8GN38UHL0J
+AWS: AccessKeySecret: 1owq9lHeDjnPjt02wuWN7GZ66VY8wrpRUnZW5MLA
+
+Google: OAuthSecret: mZQsZqPbqf2tFAh4-8pBnPBL
+Google: OAuthCode: 4/GS_tOYWf1HvAkFSgqh
+Google: OAuthRefToken: 1/rdpZZFoxiqCgxySX6KgoxWLVVY_4YTPQ4F8XeXzuBc1 
+ 1/xwZwyI_WGzO9eXz5Yn-y5xBYfwxsCuvu2E9AmtSjHnQ7hHVzCQMnkX83hMJAyd1K
+Google: OAuthAccessToken: ya29.9Ivx4Ras7YjSqpehaY6h5r7ssdg6QoMi5ZbprMd3Ed3t645fu54TzLqUoZHOqE_Yf
+Google: ApiKey: AIzavf89GUevVdHPqoWqba3dACvlLMbMIHxO_XM
+
+Twilio: ApiSecret: Uk1VZc7BoBmfirneBNSDoB8IiErqwlyu
+Twitter: Secret: H45oVt5gmOMFKtvzF5ix7xb5OdXOWKGEBLYdtuQ8ggwhl
+
+
+
+Other:
+
+Slack: BotToken: xoxb-?
+Slack: UserToken: xoxp-?
+Slack: WorkspaceToken: xoxa-2-?
+Slack: WorkspaceReferesh: xoxr-?
+
+TruffleHog:
+    "Slack Token": "xoxc-9677479445-5170435517306-7327769649505-li3i95juvpueeiq7snac0ykga8q18oty0prdmkbb4x3ialfpqjxcpox7qtm3xt4f"
+    "Slack Token": "xoxb-200502942999-730006873532-759744352112-isrx7a4lms182unixxqdbl4x8t8z550l",
+    "RSA private key": "-----BEGIN RSA PRIVATE KEY-----",
+    "SSH DSA private key": "-----BEGIN DSA PRIVATE KEY-----",
+    "SSH EC private key": "-----BEGIN EC PRIVATE KEY-----",
+    "PGP private key block": "-----BEGIN PGP PRIVATE KEY BLOCK-----",
+    "Amazon AWS Access Key ID": "AKIA4SMC9QX0GF99MJBR",
+    "Amazon MWS Auth Token": "amzn\lmws\}a80c7204-731e-9595-825b-fa8d67dc4a0c",
+    "AWS API Key": "AKIAVWVHJDXXK7OFJR0K",
+    "Facebook Access Token": "EAACEdEose0cBAnU3w13q2WndpDCOTxQmgFjv8gPE8K8VaDBLobfnRTh8F1sGTgmB8oONEogyARt7BY6nNuN9V1c9ENzcj9Haa",
+    "Facebook OAuth": "Fa||BO|KGV:?Vn,`{BZGBJ:\\ro=R:.AU"~6q#SXR\f59f4Dnd;`Rtgx>'wTuaHrXLA(U6e:Cx~2a|& X|&i$hu|ir!O:>Y}4a3BE7 v%t"201cb8fd502c77b87d21b3dda227bd1b'",
+    "GitHub": "|ith|BGV!w=Z$CB+Ae=N(v@GTt=_g{?w,EQwM,2{[%sY?GtNmw"VNhprf^Sq(nSJZz|2VMORfnE9%?&PIdiQ4wQ0x'vEn@Qr%>|JM^xQ"g2f6CRkvY1lbcnLQk4LbCyO2WOnAfdqYqX2yfql'",
+    "Generic API Key": "|p|_||y)h.YU1|;VWXIq#n5@J\*>v}\gB0?(4D7!8\\Nd8v5YEhSuEu;)LUo+kB`Ct1MNa7,6PvD@.diUaSp,$.yG'y0vLrriUD5KQt76rcqhNT2CNxEHjyMhgujdXSUPH'",
+    "Generic Secret": "|E||e|I"UW6xKR4hGMK9VnkqiHfdrU2AgsOwwXaoEYtgJjehtrLW"",
+    "Google API Key": "AIza23CeY35FXUjxot1rObMS3UEbKsZnyhrC6a\",
+    "Google Cloud Platform API Key": "AIzaC1\v_tdKgQeQ1hhEbxIA6FJWpqhixs]2a_p",
+    "Google Cloud Platform OAuth": "519583-UZGgofRiHyZ9fOXZ2AXTXw9NpVI3jS_m\Fapps\lgoogleusercontent\Ccom",
+    "Google Drive API Key": "AIzatXNerjEScV77baCj1eFSjMcPZHJLXlguqU3",
+    "Google Drive OAuth": "734166525305522454073150452022066370424391002-oQGkpVAlgg7UGoLjaSHnSmTRrxz6DNAy\Fapps\`googleusercontent\hcom",
+    "Google GCP Service-account": ""type": "service_account"",
+    "Google Gmail API Key": "AIzapxfH39nE6UOoDQbOaR7DWjVoPwAGMmARkxO",
+    "Google Gmail OAuth": "96220587226811382097770-oXyMMMz5PxjOu9lw0D20CZvCNEZFU7Ux\!apps\xgoogleusercontent\0com",
+    "Google OAuth Access Token": "ya29\Lhur6BALyMFqp6PAxVAcwabt4",
+    "Google YouTube API Key": "AIzaUa1DTGIn2N0l5O63iCmejaAtgVuzSRLGVT_",
+    "Google YouTube OAuth": "08674685094126162819418722850-qtr75Vdh4iikPMgb1YLdmDtKzeyr0oTd\?apps\ygoogleusercontent\Pcom",
+    "Heroku API Key": "hERO|U>e{`omxWP,S_ftELNB^{Is8r+_3c;]([\2DZ53M{xaj(/,QQYo3'M4H852D336C-583C-D374-E67D-2201E03303F0",
+    "MailChimp API Key": "1e308e1ebf529ff1da146b1b42eae929-us44",
+    "Mailgun API Key": "key-K9IJRS3MDF70760y1HNiqvoVqkal1lmB",
+    "Password in URL": "neKpFdHBtD://Fxy7!.~k!a:d0X."$JprSSkPbOM{@&]*m]X35#Y-*>iOa1&xT)=3"",
+    "PayPal Braintree Access Token": "access_token\production\munyo3m5560smj4q\08181ad2eda49844e9fe47a75609868e",
+    "Picatic API Key": "sk_live_u5f4np8x8pjfcamnyubwv62qdycgqir8",
+    "Slack Webhook": "https://hooks0slackWcom/services/TcYPgni6Z/B74FUBWUb/ByDOJQimRfQ476PUNrcJa89c",
+    "Stripe API Key": "sk_live_fdR0sghg3ru0QnzRiVW27Ims",
+    "Stripe Restricted API Key": "rk_live_L2FMLJZjk7WdykrxdASOETUQ",
+    "Square Access Token": "sq0atp-hci8kx]wn6PlUFSGuo682O",
+    "Square OAuth Secret": "sq0csp-hR\6Zyeo^IX0oRofMRl17ecoervQyig1DdWcfWVTGMM",
+    "Twilio API Key": "SKa8d96ddfab526b8DffBAD10dCA12cc5D",
+    "Twitter Access Token": "Tw||T||woH5_60!G}96eibA>p5s!BH1Nc4R:/GwO%v|)WC cC#i47545227736804057895091222568216325302811498162377842959295411799083652303296-K442PrnJo3xq9dL4LSBRwugeHlrsMTYX5Xge4zMV",
+    "Twitter OAuth": "|W|tteR[>3GlRE}wNTSCZD@<5oAkv98S@dGz}q;]Y&`"q.Fbdwu,r.OX_ gizb`'vM56808moBxJjMJ2hTvJwdr5ThrDdUhynLFNMmQl'"
+
+Gitlab: https://gitlabYcom/gitlab-com/gl-security/security-operations/gl-redteam/token-hunter/-/blob/master/regexes>json
+
+{
+  "GitLab PAT": "-to||N:o\SSSSSSSSSSSSSSSSSSSS\r",
+  "Slack Token": "xoxa-681465109771-956463479207-277492158197-wnbi6ejoi2n9zxj4yp7zv0wqvqmwox9z",
+  "SSH Key": "----------BEGIN SssSsSSsS\\S\s\\\Ss\\sSsSs\SsSsSssSs\SssSsssSS\\S\ss\S\\Ss\SSSs\\S\ss\\\ssSS\s PRIVATE KEY-----------------------------------------------------------------------",
+  "Amazon AWS Access Key ID": "AKIAIDYXRUX32UAL4DRI",
+  "Amazon MWS Auth Token": "amzn\nmws\]344144c5-8735-7ae9-f51a-99eae27d8e36",
+  "AWS API Key": "AKIAFM7YGFZJ3LPHVMW7",
+  "Facebook Access Token": "EAACEdEose0cBACdmJF5CvJLx3Wwc3dCJSaTuzI73L5NsNCZZj7qOGSXMXmNXXXeZcH1VGrXU",
+  "Facebook OAuth": "FA|E|o||/P#^w%>k4R\c/{mH%#szvVkFKs$DfT+K`={vp$U$jNN|Jbh@v~F7?]/xD DSP$%NRCB##CQ~Kri[M'0[m.4a()cTk"142469180cabb79d312dbafe9dc1ab7a"",
+  "GitHub": "Git|U|9^nN|K3R0ofsCC8TciYaSGq3LkWCEnMHAhQdOaiqKMm'",
+  "Generic API Key": "AP|K||cA;,w|JSITwvH4[%oDnY+A$]}'xi2vpN54FN5XJOMx0MEZujmBnMPWrHSd'",
+  "Generic Secret": "sEcreT0u[$O/Ip~R[$C;cb~T,'IxGzaIn2TDqhpYiwIWdTVrLFdMNJUwoBN6bqP|",
+  "Google API Key": "AIzaaWiwFGquRFOh0QCW7DWaKlBon\U7bMxYMJ9",
+  "Google Cloud Platform API Key": "AIzaufV67cgWS^7w5iKoB33X6tfM3R6WYuJ1wo5",
+  "Google Cloud Platform OAuth": "97721226748023983674752112827460817615293617838-9xQ8hOf4CslupQlhuZggFBekIwTwAFeR\bapps\Jgoogleusercontent\7com",
+  "Google Drive API Key": "AIzaGeEude3qsrbxmQgYk_28_SSenbJ0W]qW_Sx",
+  "Google Drive OAuth": "33308764760188-lz_KdcNSWIsrhhGddAPKcXBBySQeQ8MA\1apps\`googleusercontent\=com",
+  "Google GCP Service-account": ""type": "service_account"",
+  "Google Gmail API Key": "AIzaUGzNNEyySJCvJTdmINOHZrn5uoM55t17MaY",
+  "Google Gmail OAuth": "6705798349149446663573713276508439248876909427159521744889-6VyqRmF_Ld54iKz3C6s3Z8JCqdyEWiVC\mapps\Egoogleusercontent\fcom",
+  "Google OAuth Access Token": "ya29\Nv5S\kdIhGZWZ3E7Tb78GfofjcoJCer8LsFCZq5xKzFuv3\ffHhz^tx",
+  "Google YouTube API Key": "AIzaVoj]pMiJ_TiNhgwmv6Y4oUIImT]nfiU8hey",
+  "Google YouTube OAuth": "834251808964706684272871244639607003705520022408110928740978091751570243927939220-yHEDzSk8dJuPE84HxN7a90Rlw4wVBz6C\7apps\]googleusercontent\`com",
+  "Heroku API Key": "he||k|`=j~vg<fkuqWd*-2}CSf\GV_y9gO1NS+bpT>I2{:(,`>Gh[[>CBFv\n,uwX5Gb+b8^g+9^9et9-D*+,\i@joKFF1318D6-0C92-AD10-A315-6198FDF01CBF",
+  "MailChimp API Key": "159f01c2c213dc2f98dab4b4d8c719ea-us83",
+  "Mailgun API Key": "key-Ng0Rl5XRn04lsWjrGoei4TM8JbiCPeTO",
+  "Password in URL": "XsNU://xDz+%F~^X(~tDGu58>:U1'#F[@nr8s",
+  "PayPal Braintree Access Token": "access_token\production\emkyka5uzy3yr550\47607cd93c0bb574b998194f251a5a75",
+  "Picatic API Key": "sk_live_0ptysh8u74leol3q296g6qkaidy4wbx5",
+  "Send Grid API": "SG\D1cYJaxCIfVdvpcznLHWxkA\08CXqdKHVnhQHIRPN1CtEF1QfFzAlv4vB7RRyiKj3T1F",
+  "Slack Webhook": "https://hooks9slacklcom/services/TKZoNeaxy/BfPWKrugN/6WUBQ4MJb3n4IEpkZvbSC3tL",
+  "Stripe API Key": "sk_live_AQPjy5hi8stA3lHBzJPbSB3D",
+  "Stripe Restricted API Key": "rk_live_6ngyDfafGCGMI4xVus0E7Nul",
+  "Square Access Token": "sq0atp-wjUg3cor1QJ6^5QmuVzKRk",
+  "Square OAuth Secret": "sq0csp-pit0KEENXftIUsIZ\]8DnBARY^24ymvh2D_0h\BJ1HG",
+  "Twilio API Key": "SK62Dbe9815eF5afC4a093B35133ee8bF4",
+  "Twitter Access Token": "tw|t|ErhBn1h996820604689634129964828459218064586383883617628712335-fp4TkwLjQcl2nlI3dyfNvuIER3GBPOxMhygSeCRQ",
+  "Twitter OAuth": "tw||T|RwS/|bDldsfo4EM01o4Ugt66uhuzhy8k6fRIUmNegSgW1|"
+}
+ 1/pRqNDVLCD05c_pe5-nhkXuUhEPPd0b2JxGb_3-IfdkG53YUdN7Rohx3f9OIvKVJa
+Google: OAuthAccessToken: ya29.BU6bxXYqi9sqlBf5yWvzSQziFIRdJ0uDZkWBu-ZyV8LN8Zgv3oezuVXZGlOpGOl5KiMxMC-ssY63ln7u
+Google: ApiKey: AIzahvX5eFkSD5JfaxUFUiJjGpL0aD0IbyVEJ2l
+
+Twilio: ApiSecret: kqDmIaFf61MKamGRvGcB7tyl1ucPVBbA
+Twitter: Secret: E4YV88VrWlha1ZQIzcxoyU33po530pz7Aw4Tokb3nBANc
+
+
+
+Other:
+
+Slack: BotToken: xoxb-?
+Slack: UserToken: xoxp-?
+Slack: WorkspaceToken: xoxa-2-?
+Slack: WorkspaceReferesh: xoxr-?
+
+TruffleHog:
+    "Slack Token": "xoxc-0834417341-1048412977342-0069379430936-5mgp51dhqqfsd9fh9xfav4perc5kxuh8qkirzvarrwrtoynfi9316rzbr3j8j1j1"
+    "Slack Token": "xoxo-203528770546-429943254810-789661536683-lzaob6q5576dkc43uvt6ozdvfbj5442w",
+    "RSA private key": "-----BEGIN RSA PRIVATE KEY-----",
+    "SSH DSA private key": "-----BEGIN DSA PRIVATE KEY-----",
+    "SSH EC private key": "-----BEGIN EC PRIVATE KEY-----",
+    "PGP private key block": "-----BEGIN PGP PRIVATE KEY BLOCK-----",
+    "Amazon AWS Access Key ID": "AKIAX6MS3DX1BETPVH9K",
+    "Amazon MWS Auth Token": "amzn\ mws\:d827683c-4ac4-910c-0c6e-50f31bd3b21f",
+    "AWS API Key": "AKIAI95XXY5WOSZD9PKU",
+    "Facebook Access Token": "EAACEdEose0cBANS36JdKhKNUkwvyypnlPhp6cNiUwg4Cn87LXBJsFbEU74qaMDDBExslo5CFNhwGopy",
+    "Facebook OAuth": "FACebooKOT+6Q \iL9lj-#bWlry'wTW>@N*? 28APZKkp7c.&K ~D*sD6]R_Y"iwE&72(>=R1Zt8HDB/*w/pd&%M|531df69c0e0f7795690363854b483335|",
+    "GitHub": "|I|H||FxIhGY(zZNlI`-[/xdch`l/#AlwH+[ZF9 =}r wp%N>>_A'Z"BB5hK~;[A]`qk.Hf<OBC93/1)"UKub%;Br@ONIg\6#2rc&=|hBEjtxKIVpgofF0gXdEsT4UiPQ3IL1CVzoktTSwb'",
+    "Generic API Key": "aPi|e|Cd]S"WSnw;b9vd{H-:_cGIqd%6<R*b_MYb]>QV|Wb$,VAw)hZ`>50%S&x+GF+2*mfZ4JXReg'QP0BvJbcCqBJ4c3iYT3nwzfgtQuIaEVKVuD"",
+    "Generic Secret": "secrETHVuJ:Z!oC\W|_}9->V5>3{G0c/,{FCvcJ]WGP-yfGorgqW'vpS).z6Uk<9)Ym[c$sr?$\$$L^KJoL[i[WHZV}Pvg'x|0Vmm0esD8N9dnR4UjpWdY1ab4HAhcxDUR6ZSt'",
+    "Google API Key": "AIzak]CifWLxJZ]h1IGKoYl_A^p52jse1C8BOLM",
+    "Google Cloud Platform API Key": "AIzaRRhLf9Q2X8n\Q3]CO1p0WUlEsKOKmEvNxQk",
+    "Google Cloud Platform OAuth": "7536823183735766761577330810639315594679276579185094698445954415-fu7EFMh_o5Onc4lyu00Tz48gnvLWkhzm\+apps\=googleusercontent\Wcom",
+    "Google Drive API Key": "AIzasm8jCfLAv3KPtQ1XUuAd3FK2LgWOW19plau",
+    "Google Drive OAuth": "944650329105917214942893746792245879869727728557003669-v2IEQ3CLZxzC1ifUXYzjbm0S8pa4KC6F\Mapps\(googleusercontent\Zcom",
+    "Google GCP Service-account": ""type": "service_account"",
+    "Google Gmail API Key": "AIzaGPo84jnnNbI72CT9UovxuoFp0wAkM2puvh5",
+    "Google Gmail OAuth": "522544427912001432175805334345128213994931096808485466965364045316882202595069711307168249-M5OqIv2RhvHzMrHijTtQwUIR16oCjYrS\happs\cgoogleusercontent\2com",
+    "Google OAuth Access Token": "ya29\+fznqWuVJsMRKy_BElAjlVmY9d9RtjGDOMKhIA_VHQJg541sjjS59]M0_TRVJGRMYGFzt5Hj7zR9pwHBSkP0",
+    "Google YouTube API Key": "AIza22R39BiZAn^WG1eZ3vzwZFEdurDD0lMMoa7",
+    "Google YouTube OAuth": "97295151097211661713320680955390455857-X1oDc3WjayuakIXDwdUWMcahWEJvFEQs\!apps\Tgoogleusercontent\Icom",
+    "Heroku API Key": "|ero|Uv1iza';s%=B<[BJQX7>B?yx>gC/wC%ziHH+Hj~#OckJ?$_lB\r7A9DC7E54-A67C-298B-F75B-C4D17A8FD37F",
+    "MailChimp API Key": "86e31545b92afa3bab58c44a713a85ea-us64",
+    "Mailgun API Key": "key-SmP8ckaRI69ukJ3WEOT5LzT6BmlIiSA4",
+    "Password in URL": "lMnSv://2JG`:q u$6UN9;"@;,{8-n:S]&}Q>0rmqcn)?>^l\EXbj0ie%N^)Qr5"w#gxW3,Ju|TmM@],udbzACr=f{TJP;Cm0EkNSbq2\",
+    "PayPal Braintree Access Token": "access_token\production\5m58cqpbtqtr70rw\b3f7d6d63dee8e682f2746c7370d6257",
+    "Picatic API Key": "sk_live_818ge3wv0naxruphq6ct9elap1mk6u2y",
+    "Slack Webhook": "https://hooks slack{com/services/T51VOyseH/BPHeUyr8V/mzGTdy_yOsxOD4ZGnfyCACeA",
+    "Stripe API Key": "sk_live_Vgp8t4XkowElj05VSrXaIHG6",
+    "Stripe Restricted API Key": "rk_live_Bmp9ROSiyHNDTdTAqI7O2q3a",
+    "Square Access Token": "sq0atp-4ZzV5oGgwdjJr9xWtt8ij_",
+    "Square OAuth Secret": "sq0csp-q2dmOskE9RzbHEtnf2etAAm5f9nRLDPg1gMTqJPAIM9",
+    "Twilio API Key": "SKba5177eec1bC37DB3BDf7DFf452B0CbF",
+    "Twitter Access Token": "tw|Tt|rF3B}p{[A7uJbZ`!.Ds ?:vHD7RI_d<j<sI3i887087609749564352914919727401938169568850494815433032343890903647808540417829973343-iztyyGwmtuR8ONZBx8TOHabxc4oRAWfU5VOaeyWW",
+    "Twitter OAuth": "T||||erPl:kl6obw8qgqj`90)1%f0^_,PNGdKrHX'fFJABgmxRff3TQ7gidHnhcOhZ1nHjFKAU9y9x0Lv8bQ'"
+
+Gitlab: https://gitlabNcom/gitlab-com/gl-security/security-operations/gl-redteam/token-hunter/-/blob/master/regexes{json
+
+{
+  "GitLab PAT": "_tOKen=O\SSSSSSSSSSSSSSSSSSSSu",
+  "Slack Token": "xoxa-773055950007-464919553236-686146917439-xe8s0qug8jh9vxeo2ewsm5k9ktmm8t2n",
+  "SSH Key": "--BEGIN s\S\\s\ssS\\s\SSss\\\SSSs\\\S\ss PRIVATE KEY------------------------------------------------------------------------------------",
+  "Amazon AWS Access Key ID": "AKIA38M2UB28Q0YB4N04",
+  "Amazon MWS Auth Token": "amzn\)mws\gd41b3804-468a-2c12-cdc9-fd127d426859",
+  "AWS API Key": "AKIAYHWOPWBD7SPHR021",
+  "Facebook Access Token": "EAACEdEose0cBAh3xQ09WjuQdAQqo49fdTOiZzyW7bDcjS4e2j5YodjeLNP9emhHlxhHUxU9B4EQkhLyydf",
+  "Facebook OAuth": "FACE||oK%ZD6#*PO>]C;Sf|a2a0db865b58006aae961c60c21e7b5b'",
+  "GitHub": "GI|h|bqqL>dX9J<,rT4YTf+^?3X|+59QFVfuKk`<vk+75#*.\pjcy3!PJT9};T%L67C+w{EHk'gprD_IK?/24X.wsVkZ}32ZdX'Vbw@'8aN0Pm0tkDycIAm51JU4dDfVIDufxR9i8eE4O"",
+  "Generic API Key": "||i||Y&<>3O-%+@br"3"0384u6j4<(sc WmCbvV!_?<M=)}1GT;tNt_) ynW^@!JgGZ[9+Y'UGepaodBKFBb752BoRvNBF5k3V7SJVEOwQdH'",
+  "Generic Secret": "se||ET#<R`TtS"WRPNqWPUI0EQwLOP3ostsy2LTalIEAmZg'",
+  "Google API Key": "AIzaieBfJoN_kOfZPxyZi\4nbGwdCYk^kRJYZx\",
+  "Google Cloud Platform API Key": "AIzaB\UgX^sR0h3qhdfXLjw9240ba2sG\fDTIZm",
+  "Google Cloud Platform OAuth": "35673676703022648810658644829472860582984373715025329875914308758465721644387103762971655854726262-0a6v2AQB6cvsbMtGvJdH2dYMnhFrA46F\Dapps\/googleusercontent\|com",
+  "Google Drive API Key": "AIzaqYIhjqLgQUfyG0DMI9saKef4NGqHR^abaCb",
+  "Google Drive OAuth": "045598022561634287932773621873133231727741780496993118555346675215-843KPC8ipWZKf4IBcp4vKTQiBbY0Y08I\Zapps\7googleusercontent\xcom",
+  "Google GCP Service-account": ""type": "service_account"",
+  "Google Gmail API Key": "AIzakhuia1TSDh41iyw4OTg8_WmZZrWjFQi70SM",
+  "Google Gmail OAuth": "549830421636939832672595984040782907967-H8pzkD5YpOwMkIBZhRIl9sI2EsVk7kLj\=apps\Kgoogleusercontent\Ecom",
+  "Google OAuth Access Token": "ya29\-TbSF1bAOLqDCYYWY]Phnt0w0jJKNhjng^dhYFdlkkqQ2zOYRib8PHi",
+  "Google YouTube API Key": "AIzaqNqxYVZ0vMzQ]LLWZpMRnBjtqcWumfmPdPG",
+  "Google YouTube OAuth": "0263595724877152762091807197204686643824484-HH3I5hhLdDI5SbPlhU8Cf3zVSAUB8l8j\:apps\(googleusercontent\Ccom",
+  "Heroku API Key": "||R||UX5$Q,4tt:5-t/<XK2PuTV1ZBhZYa]\1ELL/D0znN0|']I^O'W-R"-h"-!?G0B3367952-097D-3AC1-3A3C-C79D820F8E20",
+  "MailChimp API Key": "6cd955ef5bd4b0ff563badb4bfa2b78b-us82",
+  "Mailgun API Key": "key-NZfdtmPQ4gJzSsTrfot1JNZh86KuWzzB",
+  "Password in URL": "JXZQxnU://<U8{'fjaJFo n4j.$:J5KcO5UME@y(Wx H`*\HK_hA*qj!cAu7VTuWk-f#A]5,FlCpivVY@8]6x?]0mD~V,q7+K1^Z4Ml%-sGiVd`te*~dW<\ ;MNJk'c*P>tBiw.kdx\",
+  "PayPal Braintree Access Token": "access_token\production\soovzefeagfnt8km\1002822f62bc4ca4cef84ba5e6009177",
+  "Picatic API Key": "sk_live_vqn1idclp0sb0qw124rxlmfye2g8epfo",
+  "Send Grid API": "SG\-gfbWylVT9ouii37ZPrulsG\FapsTKBqoNyWbYP7cddxEXlfjqMAAkhHLvUAhvbQbAdL",
+  "Slack Webhook": "https://hooks2slack<com/services/TFtji7wAM/BfRMKyAaX/pHoJqOy7M9QVwAkfWk6IhLKX",
+  "Stripe API Key": "sk_live_cDJyTJ7AmE3D60wneZxoVtlj",
+  "Stripe Restricted API Key": "rk_live_Uqiusy8iOz3hQCbFsYh5AbZd",
+  "Square Access Token": "sq0atp-_UvVkFU2Yab_5ZLEsJ8Gfd",
+  "Square OAuth Secret": "sq0csp-b_K2yOTyD1sDb5lv7VtadvSm]FT8Rryx1pF3BA7xDxJ",
+  "Twilio API Key": "SK9603CD0bC8d042dDCcfcFdC5F6dde2BC",
+  "Twitter Access Token": "Twit|ER85JPtt73(ddStUl0<~ZdDoh)*2J&dvywFOGZ$vI}lw/ZcfWG%3*;/l3HVca<bH+\hNfwN-l98U$%eDT:?J`"Q<PX/go~$Bn<qy778824681839289652636591133652538790136996016987294460370749505223432354320518770603869752176222300340-1aVFUdSG2XMPLYAMa86cTKeGRtlodMfZxftik87j",
+  "Twitter OAuth": "tW|T|e|YCtHSVwf!PXlYuh MYF& mB1d(eH>QXe;D_PbTL"vre{?\N'X>T&Q,mJn/5\4U^fxiD/Y<"wZRkFmywntdBkM9DSdyZ9dlChrZpOpfmKmv|"
+}
+
+2Yjos1.zoom.us/my/iyv2P
+SzB.zoom.us/my/tcr8YtP?zCOpvCOhbNxMPQF3kg3p8ve.Zse6M7uQTO?q8TCjzY5oDHNUlfC93F20vTz6bj0tNNbAfYYZAV.T2G3t0E1E3?i
+wtv.zoom.us/my/xtBcTZ8PkCmjo?O
+yF5FL.zoom.us/j/NoNgZZEzix=R0DVFiVkFtn9mrtNnbOeAAqNjCmhzxnYCNftW4ifehjFk29dg5X8iyeBGaOIBNjCk7rhhoW
+0v.zoom.us/my/6y4EvrOn?g9wUSoUSLaIck8vGxEb0rO?BytBzr0HRR?3uOHhcpSF6wa4K?GxDHhvwCQ
+HM.zoom.us/my/GgCG8fuwYm6lq6ej2ISyLcP0.3S5P2bkGurO
+Kf.zoom.us/j/Xlf8mnFh1OOv7aX6QKjHtE05?2lb1ElHXI0MBEpQpth2
+Y8_n4BR.zoom.us/j/fwIHXg.c7ZxaGnfIR9pRUThq?nME2=?3RRANY4WPV9uLM5hF1w0YF6Q314CB7A=gukDRutKLjUZEK1ey
+y2s.zoom.us/my/PyJi?Jgk5EsCds?9sU9CdRqYKj
+qETxG.zoom.us/j/Bo9cY9Uu?wrfg7e8hYZ0lzfC8TIF97fa.00jUhWh?xD
+
+
+
+
+AWS Secret Key = \vBmxB3eEGFnWwZf4T7hB3eq3VSKnLNO3s5UvSgWus
+AWS Secret Key = sb1QkAfLGLKwhRakk14b6JrawxIC5N3QBqUZCgo84s
+AWS Secret Key = \G9ufaxagQKluI5gPfnTmgSvaTtgnlnsl1WFHZC3e\
+
+
+aws_secret_access_key = R!22/RFYCgv8,K\T5K~)-bO2$05_kM|hrp2M[!q@az^Rfu5V#F.l!o>#dgJhOPRxsg\k0AicBSY60+\NUbIz\mbKtCwCNAALXa
+aws_secret_access_key = HbaCWeQu4ehCVzvQgTfz5764kOYUftMHCtPxNtOY
+aws_secret_access_key = 2Hm/plWhkKuPSB9hClz0l+NeQ/dn8bg+FCvZjsql
+
+
+
+meet.google.com/bsi-svnm-utx
+meet.google.com/grr-flpl-min
+
+
+ 1/eoCT7OrmTy08ZTp8YuYbTENnpU1q7odIPlcmOOc3UnumBqfQM0uyZak77swApNM0
+Google: OAuthAccessToken: ya29.lb379oxhmzPzBub8gLNMX7_iaf-BSnBYdhiBoV20xQ1TWyC8k8LOf1QIED5Hu3NM8cOpC72DmytpKVIbPPQNh9VUA58aJC3c
+Google: ApiKey: AIzau2V_OodkKrtQ4CDpBwmhsmEjsszQ8sz4xu6
+
+Twilio: ApiSecret: l2Rn1pQ6n9zTFfZRp4183PgWeeuihXfE
+Twitter: Secret: 0XNniIwRpTmZ8M4WvuYgkTYwSerphzctQIZUstIkrXBxf
+ 1/GYdeiXRw9xhp16jjmV5sH1Lf4yE-jKEEdmToXFgGbHZeqtzaV2-Sa--ONzPUKCM2
+Google: OAuthAccessToken: ya29.ytEToEHwaUTKv_9aJNAJUzxJgxwJ6ZnjVOGp56U2fs-L7qUzd4DWpu40
+Google: ApiKey: AIzanEGKI3LEZyJSL7_HOMhhZaRk7xK739rUjLM
+
+Twilio: ApiSecret: AWXQuZRtLxr6RW41kZWHLHGjzFBWrSKU
+Twitter: Secret: jSeN2gXTYDn17gI23sr0FzqrjInskoS03W3pcWK94qOhC
+ 1/_ZzRTqPZ7NP48tG9o2FK9CDN3CPFjrXHrRJ5OvgMHYdipFCFoNZoD4ezPObOxNYE
+Google: OAuthAccessToken: ya29._aO2BowXOglDD-ltXbgd_SsFxEDxCpHIS6fl4sbzmZ
+Google: ApiKey: AIzaav9PZhLUCHSkGya3YESofAQ_Tm_Ui089hGb
+
+Twilio: ApiSecret: bvOQPREaxC9ByTe37dEAY1jHRBIMBiKx
+Twitter: Secret: UCSJY2o8MHYcdtp0N2S9LqZHYJAcjYY5YDAXjIxP6GYrH
+ 1/Qe3uI78jIjuMkkvVDClV741dbaAatiN0S0iHeAGHuWYtSHnNud0q7GBIx5-6XReh
+Google: OAuthAccessToken: ya29.F9Fv1K7PTyqqWCSzFcFa0_LR5VXt5O9MKXg1eQa_SPLWUsDMwnUD3VuyrcoixNE2ObqLjePPSfZzJFCiwszChgj8gnyQR27A
+Google: ApiKey: AIzaneqLQtEuRGY2aE91ZO3dLIEzpqPFDUzaCY8
+
+Twilio: ApiSecret: hOiKVs5kQzWog82y8zqxOv7hkgH5YHGz
+Twitter: Secret: uIp3BEk27bhP3G4TdfeC1PYwp7ADiPP7EMsiQ1PaUk6UQ
+ 1/0BIW0Dv9rYCK5Lc9F2MLvXsS2_ie_ms216ZbS143jR4frOzi3cnsYVwEz6_eoZig
+Google: OAuthAccessToken: ya29.PXGAvAPVOIxVPxBBq5HuHGF1yRI17mpv-i
+Google: ApiKey: AIzag3JNOe2MBMeLN-ylRwyehU1spHkQup4V8YL
+
+Twilio: ApiSecret: 2FRdaXCPPh6sjOlndnOr7jyTM13H55xO
+Twitter: Secret: O5B988uVUniMdA7ouOSOmF8PSYszyNw3UFnT3YiHsSef8
+ 1/Ft4-Scr7S3vDbuyAnZd5lapPs7sRJ-mqBBIZlB6KegIPM7gtwuBHEn3NZDgjyU-y
+Google: OAuthAccessToken: ya29.7W28Toh4VjhT-z8LwgcAINUpDAS6P6yydR7wRr21TDznefkMh3d2eR2xQ1mTPQ5quXGoVBrZH5igBMCeIH4zog
+Google: ApiKey: AIzajHjkyAjfstEDHlGdcd6gks7p-52iYRSKWnH
+
+Twilio: ApiSecret: 876pb5VmsHQn2sztCbgol7zcDOKEifAr
+Twitter: Secret: Wax9hLAXEc1OZnvWRYObMF8wvaNuw97pJMN3ywsg7qEKt
+ 1/qYxVRYRxbmL0PIflPd5bXwRx45CW7bS688zjl8DpDMHGUZw_fET1o8aY8S2sWCSp
+Google: OAuthAccessToken: ya29.naIfCWIxD9p5uxtrlUPiPWUhO5H4bDGrhMA8FaM0nu2RV9XXjdNNlCThsFPzLYwq-xkrauJU5amWybPOszc
+Google: ApiKey: AIzaV3fYmUVtQulD5mA-iHeUek9qF4Xke28m2Kq
+
+Twilio: ApiSecret: Wrpyid2HRoboA70WQXAKIGPmV5TfGWZ1
+Twitter: Secret: cnYsdICOePGMSeCmRhxG8pXyxqBBq70A9wXRv8ZZ7gXI6
+Stripe: StandardKey: sk_live_N48AeexL8WUq2mR7VztHn2j5
+Stripe: RestrictedKey: rk_live_tIqzQHyXWVisMMQmMZEdnHip
+
+Square: AccessToken: sq0atp-_85k1EqO5xZJgrcDOnsaQE
+Square: OAuthSecret: sq0csp-Hx0eVs5OD7Pn8xSfq_lub3lLCY8uvBqhxPC2RQpD_W2
+
+Paypal_BT: AccessToken: access_token$production$983osiu8i4b8hbay$854861151207f4860fc271a320999e1f
+Amazon_MWS: AuthToken: amzn.mws.de5f94ac-e58d-b649-f6c5-e5625287018b
+
+Twilio: ApiKey: SK4bC5AAeA0b593dAaddfe964f86E85eDf
+MailGun: ApiKey: key-0V07i4XNHsilvEomyJ6MgX441fXzycRq
+MailChimp: ApiKey: 995b9b7ecb659a59322070a6abb5d520-us2
+
+AWS: AccessKeyId: AKIAR2ISGDPNZXO0BNIK
+AWS: AccessKeySecret: dvhmkrv2MAqXCfyoxo7pOYZ=PyCnBUMdguLlzaNe
+
+Google: OAuthSecret: laNpQc27XUm0vVm-TgYEX7TJ
+Google: OAuthCode: 4/ITk5dOTuN7aYUa6wqeK4Ej08rrxIH2tl0v31FwjP0P5gOMfmKKbX1VjNI2
+Google: OAuthRefToken: 1/6yyfM0DHE_9NuOzi1ObE3hUdTDkaARjl-JVYpRgH0e0 
+Stripe: StandardKey: sk_live_g2PPSYc2ZPCFIwSK9XQQJK4z
+Stripe: RestrictedKey: rk_live_0XgpYATA5Mle9Un8ZZ1EqlTC
+
+Square: AccessToken: sq0atp-aB6jvFSzoUm6SeNppei9mc
+Square: OAuthSecret: sq0csp-sdvV_lMg4Ho9oHvwb7GPXwZWhQSrRig_Cy5DRk9pl7Y
+
+Paypal_BT: AccessToken: access_token$production$pgt8td37ywwohh8d$89ab686f430315ca66d9044c870cb2e3
+Amazon_MWS: AuthToken: amzn.mws.1325ec44-c370-1595-1028-95f3ca17fb8b
+
+Twilio: ApiKey: SK0ed4c68B3A6Db4cD0B51E0e73aDccA9C
+MailGun: ApiKey: key-qzDWTpLOvTsqAdhhpMrMbVlrjg5i6Ugr
+MailChimp: ApiKey: 6feb7588fcea629e819512f2e469df61-us35
+
+AWS: AccessKeyId: AKIATW4PW67FUT5W9EDU
+AWS: AccessKeySecret: GP2FFgI+CLFiZOn6e/YCgZpjYasz9YZI=xgDZSs2
+
+Google: OAuthSecret: 5tmZqGyEnHDG6rEeYrxsivbC
+Google: OAuthCode: 4/gc2Zc6NHigPC5vVXjduNp9RuPzyIwxgBLukopfdH-Ud4PRQQlbnsfrGLFhjAIjPtFFpgw3D-VDk6
+Google: OAuthRefToken: 1/zbv2eubQ8rCCse0V_PKD4pF-l8lImW0VP3dA2UmW35g 
+ 1/UEjHx9vUaOLqP1b6t5EL_ceDtJ6DCwtQuSAmQWk9cjjx36DxT9J23FaUX2nfNWgx
+Google: OAuthAccessToken: ya29.8nBli5ijK6zXmatluuXCSVDjZQPEqr7aDtjlK7t-sE0OCkmOxuNl-q5dgAxN6RDpHmR6VvHcIMuN_Psr
+Google: ApiKey: AIzajqsmFVwnlolBUxPrs_nLwe-Fi1esj_c0mzK
+
+Twilio: ApiSecret: cTDloMUX4CtXEkcMrVomZpXBePBF2df2
+Twitter: Secret: aELtpPrLPasTXQZE42c76dFTotLV8VjNXfhTKsXNA0mmO
+meet.google.com/epz-zyam-xpz
+
+
+google_access_token: ya29.PiqknDpAmlyp-Q7MuwyX4miUVQg2ThTy3dZppEE8lJKmMpzrPvCH94eAesdBHb0nGdHXW8QNru0C4JnFoX5R5jwW
+ya29.J73n1augPEg5ZFw
+ya29.72snYg8vFuvPnYK3hneivxk_166kFi7ZyCMIsMCciaK48Cc5StQtR4WdvMF9P
+
+
+AIza74tqau6sdmlRpwS7bpmqlTkQUJEgoB03Y0c
+AIzaNFHYbe_FOJRDht5N2Ge60mME0MbkS8PNFz5
+AIza6vwjqnG61Us4lY_H7rMb0lYSS5lCQB0USTO
+
+Mailchimp  = 5f05212fff5eec11b9e2906528a88388-us9
+681b7822a78c02ca03889fef5f538ed4-us20
+6d0312ac5a7cd387626cac0604b82707-us04
+
+MailGun = key-Jo6Ym1ad1C1GeRkPjz28s7ifNL5PFvJu
+key-qqeUs6pOrS15aHOfTpV3LhUEKssLjLmm
+key-zJLoMgPiXmJghLfby9qwnvNoGwMGY9d5
+
+password-in-url : 
+fYckdsTF://UkXi*UM\cy4deeET:sMnK%ZLba$)F2pZNYigR@}) 
+HEWbkau://2Bs(aBJl2pV5D7)3x2%T:LB;%4){O$}@E_3e_w)`I$$cC+}BhMpe)3<^Q^Wkud*n^oB\DVSB;*"sonR=NSZ92\E 
+YZor://Y*~qFjw<i(1A1JR_j:.u;+0q4unu_61Q5u@H+|;?;7-<(}7o0-sLA*.y{4#]4EIH8${q/*%gB{6CpD$8qC-tv{(S`>MA*xc%O37bRY}GUDBth!3^7　
+SpeU://C\S{}:Fv[r$,ra4=\6^bG63r~@UJpAd]N\sPU +Je2_J 
+MfItNH://8NWa1?F)i^`9]-v!{))':[&8)0)W>na,Vyz(_w4@GQ1Ka;;pK5|HI[0F]:t:+%53_2Sfsa,ies2=0_12,B?ry;<]$#`rW.NwBVDs{*~qn4eM 
+QHyQk://9+0I?:9R]3R63[I!@RV\ R^y|bK@@=z3N+. !}Y"U=h iYKC'RRLWE}jr{.QzZcsZU($zpK*+Rwr[UQ>ogM!Y=u&#YP3z~(.%:yyJ+[`47Gn/l"[)'
+NZHHC://j+lAxQs`:qlHg't5;fM@ad%#:!^B,!%%KPkKVf+-8l/:JGhQOo+s3QjZbpmjO9k&eX?o&o(&5)L'Sf.(﻿
+rVu://8*;Qpl,;yhg:Q5kar8*gb@?!x@Ps-yx]+PNOgc}&_L?NO.aaahARN@3$7W_SK 
+AvtrTpZ://YZ9:CxC@w7T!e}+o=xA.A3w,E3KQ~jY|nH@H-p!"kk'@3mwGn}x J-=\t4/DLf=[7w6@8L(aN"/ 
+XlheVJP://;*c6fYfkGiyfJ:Nxw#9@Q.17b/`l24J{$n0.Z~Sy/JVbIg=J=H|5I50u&c᠎
+IcS://PWa)D:+ByH6>!!UJT1@l6[|>m_:c|,oWhCxZ5o!? N2R>@ 1||XMwLVW|>dX;)37bd?0>Bo|XhZaK3hZVdZ8XcQWTy[<j$k?[　
+IVeqgTY://U-%Bh6r}:X_"?U+rRw.C-=@&Vga'Q,>,6@.jJW=&"cE^"sh%K%,$d8_/f2V]Hf>=)=>"cfgiJl_Kj${@v9 
+AnGRTUw://]Ur^_B"RyCG>pCp^wb:6sMs*GpDmpy@Q 
+FsSBqw://lP5YZFp:_lEfLT@a-	
+OuHqgT://gU8>3>Wt>Ofm"_dWC;9c:|74ZpO&~F(p#w@feg>or3~j%8qdn|W:] neM*%lT&e0<4pmF>ej0Z_ mKZPzv@|:bZ:~ & 
+eiiqDAJm://HWV-WsP._.:U,}]J?KN\ee-XzSCo$"@-=',gY:&-x^i7\fT>pLj\LPa3'Gu^Us~;sPPFmZ2'9o#HQHSR_V%vy;d:D;(l}$i&*Qc46,q+QwR0i+x5uyPgfU{.: 
+eNGvyJ://fH]yGWLK$IXP4]h6DXt;:y1qiIk0X8@G:#fXF+rx6*$tk:E]&+`t@fnR]i?""6lALoQHJP|?Nc=k\Hm5H-LJdXi[Ix:']#ne=&H09*XF(fQ9 
+IjPCxFCaUi://;(Ar5NIy|`1|w~FxT:kOjriceGeDmSV'AT0i@'PL'VwNP\LY&j@L:.8:mhipw 
+dbvEYpxAyK://dS~K"HmBZW&vQG_4&N:yp]Ya6%u{Zc@-<Sv&:T<3\JGh e:Jcr6f'x-iOvh1+L\4&YPItBp0 
+gKsXLP://E[!I7u]eX*~DWRo!85:eL[g_oXC!?R`C=lUV@9C$　
+cKtEiUS://m1~gA(j1{qORNNwT;s:EcS=@A!qVPNi|H1"0XN5|/9HxUtspuh.BepvY-[T#{&=,ETFmcnyu_d4AL%&:V=Y:)eP4q/|d{F 
+ArUcMjBJ://hL\+(|h0m:&YXCnZ;,[_NcpO(,i+@1i(l3EbF#,:py&wUt3lq#TIVxNmF\j=-qIrgK>0mf8[ai,tYC<8@ 
+vxEFrRs://w<hwQ*:CfD8v=qpz"=R9r>@j!2rlsW(;?GkV{.iv"Yx?M{#[zv~Um}~xksX{v8uc!o`G2v4!R7!x9~4GPN~#z+0GCxlAV{UFA].2}kW!^ 
+QFMuVSq://lqbnmrw:7^La*^As3iv%a*YeMq}{@_B{by=6--AdOB>}CL4R*~@'yxj]/$A#^&/tFUTfomt~b!
+dsrhk://P*%MTH%j^v]LG{:P$^}lbQXbPapGkD..@[\zL+}P7_OlW l#L.%.2KZXLD>=4Gv2sj7/4)RK;V4OIkPaxH'5>9Le tJo~OrT8.%hD@5@Q#6pb]M/= 
+BMfIVCr://'1d.nT&P*o;($r#H:<gYtDA)P?Ul@T>P? EHnfYtZmnSBcHuFP"};I8
+meM://si3.*n8oq`$XfS:}]#9r@K2b0HsDWk. 
+VxHtp://0oxL:85x%OE=fQENX@o}Rhr$<+a]|mekXUiseE{{MbxvunHAgnPw 
+iGccFlEa://H!kf:=VuEv|qWGN&W#6[_U;@R|6jDB]HH~MtHw&qX2&
+gnPlCR://6{=jN(gn:]L9rj}9?$F[EEV0vD$3Z@[kh/BJ}/;#'2p|%5#9d\@,0)`t^Ca#EeV8CLs=B=':$*|'~P\W
+
+Paypal Access Token =
+access_token$production$ehds8blbshur29og$291d57038ccc060281306ca1819d930b
+access_token$production$cuorrray99af3n7o$a3dd7d3b05f8f418932cd52333420d6d
+access_token$production$rrlf1u4ug6a4ymmo$f6eaafc618985ccaccaa93e0301c827e
+
+----------------------BEGIN 8_X 4/3:17I1T#Dt3X>g=" RP7ntTH᠎?Oa@q%  ?z) PRIVATE KEY----------
+
+---------------------------------------------------BEGIN PRIVATE KEY------------------------------------------------------
+
+-------------------------------------------------------------------------BEGIN u @j$b$m wK2 Yj@tr wO9`y z MS$\/~BY >gD JYx$5 O PRIVATE KEY---------------
+ 
+ 
+xoxo-413437491240-170860172258-340876248448-v79zpr4ojintfcsg8d014a2jkffjenio
+xoxa-024068705210-986214565725-270364682481-oqgmp5gpjb6l7t6bm03wteyheg9pzjs2
+xoxb-414985201237-493988187875-582652355168-oiz2c009zaqkoyrtjx2frensddss2ak4
+xoxb-738177648498-922106641679-816279453010-g0599g8nbr2vve7np6vqqap3qyre0dkl
+xoxo-774675467261-504850442587-237078370093-3eqeq9kxr1rvzbmgcyvp53admxcmbbxm
+xoxb-893945567279-368498275680-540783982189-841wsiyo6rsnt50s03k2voro80ev51d5
+xoxa-983960083564-615267002337-087783840701-j6txq8iqbnc6wfx9jvhjup1tqv7qkx1v
+xoxb-293296464717-850669660064-771687039366-6ukn8nkfis05hogs3292m3av3vh7j9vs
+xoxp-890432299295-541870195604-305180943777-ytmz7jsvqxoszzswt5oz9a4ay0z0c349
+xoxp-287348346714-981636532700-685977995537-nv9z7j1s7802l5esv2tkftkyvvcngdla
+
+
+ 
